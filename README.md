@@ -2,6 +2,16 @@
 
 模型参数保存 百度云网盘链接: https://pan.baidu.com/s/1InVsFOPj4gaKNG8m6PBlfw?pwd=tkxt 提取码: tkxt
 
+# final 1
+```
+run train.ipynb
+run test.ipynb
+```
+# final 2
+```
+run ViT.ipynb
+```
+
 # final 3
 NeRF代码的运行
 
